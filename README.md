@@ -8,16 +8,27 @@ Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 Part 2: Glossary to include these terms in a bulleted list.
 
 Branch - Unique set of code changes with a unique name. 
+
 Clone - Copying the repository from Github to your local machine. It pulls down a full copy of all repository data that Github has.
+
 Commit - A snapshot of your entire repository, it essentially gives you a checkpoint to reevaluate your project. 
+
 Fetch - A command that downloads commits, files, and refs from a remote repository into your local repo. It's what you do when you want to see what everyone else has been working on. 
+
 GIT - Version conrol system that allows you to manage and keep track of your source code history. 
+
 Github - Web-based hosting service for software development that uses the Git version control system.
+
 Merge - Lets you take independent lines of development created by git branch and form them into a single branch.
+
 Merge Conflict - It happens when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
+
 Push - Uploads local repository content to remote repository. It's how you transfer commits from your local repsoitory to a remote repo.
+
 Pull - Used to fetch and download content from a remote repository and immediately update the local repository to match the content. 
+
 Remote - Command that lets you create, view, and delete connections to other repositories. They are similar to bookmarks. 
+
 Repository - Contains all your project's files and each file's revision history. You can discuss and manage your project's work within the repository. 
 
                                     
